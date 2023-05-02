@@ -26,13 +26,13 @@ I'm a software engineering student studing at Duke. I desire to build a virtual 
 <br />
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=rose_pine#count_private=true#gh-dark-mode-only" alt="Hugo's github stats" />
+  <a href="https://github.com/0hugohu">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=rose_pine&count_private=true#gh-dark-mode-only" alt="Hugo's github stats" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=swift&count_private=true#gh-light-mode-only" alt="Hugo's github stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=rose_pine#count_private=true#gh-dark-mode-only" alt="Hugo's github stats" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift#count_private=true#gh-light-mode-only" alt="Hugo's github stats" />
+  <a href="https://github.com/0hugohu">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=rose_pine&count_private=true#gh-dark-mode-only" alt="Hugo's github stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift&count_private=true#gh-light-mode-only" alt="Hugo's github stats" />
   </a> 
 </p>
 
