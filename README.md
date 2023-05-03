@@ -33,27 +33,27 @@ I'm a software engineering student studing at Duke University. I desire to build
   <a href="https://github.com/0hugohu">
     <picture>
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=rose_pine&count_private=true#gh-dark-mode-only"
+      srcset="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=rose_pine&count_private=true#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=swift&count_private=true#gh-light-mode-only"
+      srcset="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=swift&count_private=true#gh-light-mode-only"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=swift&count_private=true#gh-light-mode-only" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=0HugoHu&show_icons=true&include_all_commits=false&theme=swift&count_private=true#gh-light-mode-only" />
     </picture>
   </a>
   <a href="https://github.com/0hugohu">
     <picture>
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=rose_pine&count_private=true#gh-dark-mode-only"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=rose_pine&count_private=true#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift&count_private=true#gh-light-mode-only"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift&count_private=true#gh-light-mode-only"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift&count_private=true#gh-light-mode-only" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hugohu&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=swift&count_private=true#gh-light-mode-only" />
     </picture>
   </a> 
 </p>
