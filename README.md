@@ -15,15 +15,15 @@
 
 
 
-I'm a software engineering student studing at Duke University. I desire to build a virtual world where people have no pain or stress.
+I'm a software engineering student studying at Duke University. I desire to build a virtual world where people have no pain or stress.
 
 **About me**
 
 - 🎓 M.Eng. Software Engineering student at [Duke University](https://duke.edu)
 
-- 💼 Backend Development intern at [Amazon](https://amazom.com/)
+- 💼 Feel free to visit my website: [Hugo Hu - Architect of the Future](https://hugohu.site)
 
-- 💖 I love writing Java & C++, and designing user-friendly UI & UX
+- 💖 I love writing Java & C++ & Swift, and designing user-friendly UI & UX
 
 - 💬 Ask me about anything [here](https://github.com/0hugohu/0hugohu/issues)
 
